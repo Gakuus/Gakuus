@@ -70,6 +70,18 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 
 ---
 
+## 🗺️ Desde Uruguay 🇺🇾
+
+<p align="center">
+  <i>"Cuando programas para el mundo, el mundo programa contigo."</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gakuus/Gakuus/output/metrics.plugin.stargazers.worldmap.svg" alt="Worldmap" width="60%">
+</p>
+
+---
+
 ## 🏆 Trofeos
 
 <p align="center">
