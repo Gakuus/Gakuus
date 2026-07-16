@@ -33,7 +33,7 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 
 <table>
   <tr>
-    <td valign="middle">
+    <td valign="middle" align="center">
 
 ```
                     -/oyddmdhs+:.
@@ -50,16 +50,14 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
           `sNMMMMMMMMNNNmmmdddddmNMmhs/.
          /NMMMMMMMMNNNNmmmdddmNMNdso:`
         +MMMMMMMNNNNNmmmmdmNMNdso/-
-        yMMNNNNNNNmmmmmNNMmhs+-`
-        /hMMNNNNNNNNMNdhs++/-
-        `/ohdmmddhys+++/:.        OS: Gentoo Linux
-          `-//////--.`            Kernel: Linux
-                                  Shell: bash
-                                  DE: Custom
-                                  Languages: PHP, TypeScript, Rust
-                                  Editor: VS Code
-                                  Theme: Dark
+        yMMNNNNNNNmmmmmNNMmhs+-
+        /hMMNNNNNNNNMNdhs+/-
+        `/ohdmmddhys+++/:.
+          `-//////--.`
 ```
+
+**OS:** Gentoo Linux | **Kernel:** Linux | **Shell:** bash  
+**Languages:** PHP, TypeScript, Rust, HTML/CSS, JS | **Editor:** VS Code
 
 </td>
     <td valign="middle">
