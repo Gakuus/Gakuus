@@ -25,7 +25,7 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 └── 🔐 Seguridad Informática
 ```
 
-> *"El software libre es cuestión de libertad, no de precio."* — Richard Stallman
+> *"Cuando programas para el mundo, el mundo programa contigo."* — Proverbio del software libre
 
 ---
 
