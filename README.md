@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Tomas Silva </h1>
+<h1 align="center">Hola, soy Tomas Silva 👋</h1>
 
 <h3 align="center">🎓 Estudiante de Ciberseguridad | 🖥️ Desarrollador Web Full Stack</h3>
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Sobre mí
+## 🧑‍💻 Sobre mí
 
 Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar ambos mundos para crear aplicaciones seguras y robustas. Con 20 años y muchas ganas de aprender, me enfoco en construir soluciones que no solo funcionen, sino que también estén protegidas.
 
@@ -25,11 +25,11 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 └── 🔐 Seguridad Informática
 ```
 
-> *"El mejor firewall es un desarrollador que sabe de seguridad."*
+> *"El software libre es cuestión de libertad, no de precio."* — Richard Stallman
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -56,7 +56,7 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 
 ---
 
-## Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gakuus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub Stats" width="48%">
@@ -70,7 +70,7 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 
 ---
 
-## Trofeos
+## 🏆 Trofeos
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gakuus&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies">
@@ -78,7 +78,7 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 
 ---
 
-## Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 <table>
   <tr>
@@ -148,7 +148,7 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 
 ---
 
-## Contribuciones
+## 🐍 Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gakuus/Gakuus/output/github-contribution-grid-snake-dark.svg">
@@ -158,7 +158,7 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 
 ---
 
-## Contacto
+## 📫 Contacto
 
 <p align="center">
   <a href="https://twitter.com/tomisosg"><img src="https://img.shields.io/badge/Twitter-@tomisosg-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
