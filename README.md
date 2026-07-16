@@ -33,19 +33,33 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 
 <table>
   <tr>
-    <td valign="middle" width="120">
+    <td valign="middle" width="200">
 
 ```
-    .---.        OS: Gentoo Linux
-   /     \       Kernel: Linux
-  /  O O  \      Shell: bash
- |  \___/  |     DE: Custom
-  \       /      Languages:
-   '-----'       ├── PHP
-    /   \        ├── TypeScript
-   /     \       ├── Rust
-  '-------'      ├── HTML/CSS
-                 └── JavaScript
+  @@          @@
+ @  @@      @@  @@
+ @   @@    @@   @
+ @    @@  @@    @
+ @            @
+ @  @@@@@@@@  @
+  @@@@@@@@@@@@
+   @@  @@  @@
+   @@  @@  @@
+    @@@@@@@@
+     @@@@@@
+```
+
+</td>
+    <td valign="middle" width="400">
+
+```
+OS: Gentoo Linux
+Kernel: Linux
+Shell: bash
+DE: Custom
+Languages: PHP, TypeScript, Rust, HTML/CSS, JS
+Editor: VS Code
+Theme: Dark
 ```
 
 </td>
