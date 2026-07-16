@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Tomas Silva 👋</h1>
+<h1 align="center">Hola, soy Tomas Silva </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Estudiante+de+Desarrollo+Web;Full+Stack+Developer;Aprendiz+constante;Construyendo+el+futuro+%F0%9F%9A%80" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 Soy un desarrollador web apasionado por crear soluciones que impacten. Con 20 años y muchas ganas de aprender, me enfoco en construir aplicaciones funcionales y escalables. Actualmente estudiando desarrollo web y explorando nuevas tecnologías día a día.
 
@@ -20,7 +20,7 @@ Soy un desarrollador web apasionado por crear soluciones que impacten. Con 20 a�
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -38,7 +38,7 @@ Soy un desarrollador web apasionado por crear soluciones que impacten. Con 20 a�
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gakuus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub Stats" width="48%">
@@ -52,7 +52,7 @@ Soy un desarrollador web apasionado por crear soluciones que impacten. Con 20 a�
 
 ---
 
-## 🏆 Trofeos
+## Trofeos
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gakuus&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies">
@@ -60,7 +60,7 @@ Soy un desarrollador web apasionado por crear soluciones que impacten. Con 20 a�
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <table>
   <tr>
@@ -130,7 +130,7 @@ Soy un desarrollador web apasionado por crear soluciones que impacten. Con 20 a�
 
 ---
 
-## 🐍 Contribuciones
+## Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gakuus/Gakuus/output/github-contribution-grid-snake-dark.svg">
@@ -140,7 +140,7 @@ Soy un desarrollador web apasionado por crear soluciones que impacten. Con 20 a�
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://twitter.com/tomisosg"><img src="https://img.shields.io/badge/Twitter-@tomisosg-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
