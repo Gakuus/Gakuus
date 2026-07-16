@@ -36,13 +36,29 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
     <td valign="middle">
 
 ```
-      .--.                   OS: Gentoo Linux
-     |o_o |                  Kernel: Linux
-     |:_/ |                  Shell: bash
-    //   \ \                 DE: Custom
-   (|     | )                Languages: PHP, TypeScript, Rust, HTML/CSS, JS
-  /'\_   _/`\                Editor: VS Code
-  \___)=(___/                Theme: Dark
+                    -/oyddmdhs+:.
+                -odNMMMMMMMMNNmhy+-
+            -yNMMMMMMMMMMMNNNmmdhy+-
+          `omMMMMMMMMMMMMNmdmmmmddhhy/`
+         omMMMMMMMMMMMNhhyyyohmdddhhhdo`
+        .ydMMMMMMMMMMdhs++so/smdddhhhhdm+`
+         oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.
+          :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh
+            .:+sydNMMMMMNNNmmmdddhhhhhhmMmy
+               /mMMMMMMNNNmmmdddhhhhhmMNhs:
+            `oNMMMMMMMNNNmmmdddddmMNhs+`
+          `sNMMMMMMMMNNNmmmdddddmNMmhs/.
+         /NMMMMMMMMNNNNmmmdddmNMNdso:`
+        +MMMMMMMNNNNNmmmmdmNMNdso/-
+        yMMNNNNNNNmmmmmNNMmhs+-`
+        /hMMNNNNNNNNMNdhs++/-
+        `/ohdmmddhys+++/:.        OS: Gentoo Linux
+          `-//////--.`            Kernel: Linux
+                                  Shell: bash
+                                  DE: Custom
+                                  Languages: PHP, TypeScript, Rust
+                                  Editor: VS Code
+                                  Theme: Dark
 ```
 
 </td>
