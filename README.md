@@ -54,8 +54,7 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
           `-//////--.`
 ```
 
-**OS:** Gentoo Linux | **Kernel:** Linux | **Shell:** bash  
-**Languages:** PHP, TypeScript, Rust, HTML/CSS, JS | **Editor:** VS Code
+<img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo">
 
 </p>
 
@@ -71,7 +70,6 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo">
 </p>
 
 ### 🔐 Áreas de Enfoque
