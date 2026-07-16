@@ -36,17 +36,13 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
     <td valign="middle" width="200">
 
 ```
-  @@          @@
- @  @@      @@  @@
- @   @@    @@   @
- @    @@  @@    @
- @            @
- @  @@@@@@@@  @
-  @@@@@@@@@@@@
-   @@  @@  @@
-   @@  @@  @@
-    @@@@@@@@
-     @@@@@@
+      .--.
+     |o_o |
+     |:_/ |
+    //   \ \
+   (|     | )
+  /'\_   _/`\
+  \___)=(___/
 ```
 
 </td>
