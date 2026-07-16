@@ -1,7 +1,9 @@
 <h1 align="center">Hola, soy Tomas Silva </h1>
 
+<h3 align="center">🎓 Estudiante de Ciberseguridad | 🖥️ Desarrollador Web Full Stack</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Estudiante+de+Desarrollo+Web;Full+Stack+Developer;Aprendiz+constante;Construyendo+el+futuro+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Estudiante+de+Ciberseguridad;Full+Stack+Developer;Hackear+el+futuro+%F0%9F%94%93;Aprendiz+constante+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,9 +16,16 @@
 
 ## Sobre mí
 
-Soy un desarrollador web apasionado por crear soluciones que impacten. Con 20 años y muchas ganas de aprender, me enfoco en construir aplicaciones funcionales y escalables. Actualmente estudiando desarrollo web y explorando nuevas tecnologías día a día.
+Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar ambos mundos para crear aplicaciones seguras y robustas. Con 20 años y muchas ganas de aprender, me enfoco en construir soluciones que no solo funcionen, sino que también estén protegidas.
 
-> *"El código es como el humor. Cuando hay que explicarlo, es malo."*
+```
+📌 Formación:
+├── 🎓 Ciberseguridad (en curso)
+├── 🖥️ Desarrollo Web Full Stack
+└── 🔐 Seguridad Informática
+```
+
+> *"El mejor firewall es un desarrollador que sabe de seguridad."*
 
 ---
 
@@ -34,6 +43,15 @@ Soy un desarrollador web apasionado por crear soluciones que impacten. Con 20 a�
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
+### 🔐 Áreas de Enfoque
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ciberseguridad-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Ciberseguridad">
+  <img src="https://img.shields.io/badge/Seguridad_Web-FF4500?style=for-the-badge&logo=owasp&logoColor=white" alt="Seguridad Web">
+  <img src="https://img.shields.io/badge/Pentesting-9B59B6?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pentesting">
+  <img src="https://img.shields.io/badge/Desarrollo_Seguro-2ECC71?style=for-the-badge&logo=shield&logoColor=white" alt="Desarrollo Seguro">
 </p>
 
 ---
