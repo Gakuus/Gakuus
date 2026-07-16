@@ -20,8 +20,8 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
 
 ```
 📌 Formación:
-├── 🎓 Ciberseguridad (en curso)
-├── 🖥️ Desarrollo Web Full Stack
+├── 🎓 Ciberseguridad (en curso) — ITSP
+├── 🖥️ Desarrollo Web Full Stack — ITSP
 └── 🔐 Seguridad Informática
 ```
 
