@@ -54,7 +54,7 @@ Soy un desarrollador web con formación en **ciberseguridad**, buscando combinar
           `-//////--.`
 ```
 
-<img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo">
+<img src="https://www.gentoo.org/images/gentoo-logo.svg" alt="Gentoo Linux" width="100">
 
 </p>
 
